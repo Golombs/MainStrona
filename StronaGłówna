@@ -1,0 +1,36 @@
+<html>
+  <head>
+      <title>Nowa Strona EZ</title>
+      <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="banner">
+          <div class="navbar">
+              <img src="BEAR_Icon.png"  class="logo">
+              <ul>
+                <li onclick="location.href='https://golombs.github.io/Strona/TSI.html'">Home</li>
+                <li onclick="location.href='https://golombs.github.io/Strona/TSI.html'">Zadanie1</li>
+                <li><a herf="https://golombs.github.io/strona2/praca123.html">Zadanie2</li>
+                <li onclick="location.href='https://golombs.github.io/strona2/praca123.html'" >Zadanie2</li>
+                <li onclick="location.href='https://www.twitch.tv/golombs'">Twitch</li>
+                <li onclick="location.href='https://www.zsbem.pl'">Strona Szkoły</li>
+              </ul>
+          </div>
+
+          <div class="content">
+<h1>witam w menu zadań</h1>
+<div>
+  <button type="button"><span></span> Film o wspaniałej grze</button>
+  <button type="button"><span></span>Tarkov Wiki</button>
+
+          </div>
+        </div>
+
+
+
+
+
+
+    </body>
+
+</html>
